@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Land
+  - spike
+  - back
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - platform
+  - player
+  - spike
+  - button
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - background
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: back
+    uniqueID: 869860459
+    locked: 0
+  - name: button
+    uniqueID: 2611244045
+    locked: 0
+  - name: spike
+    uniqueID: 4161091391
+    locked: 0
+  - name: player
+    uniqueID: 2807552077
+    locked: 0
+  - name: platform
+    uniqueID: 903803539
+    locked: 0
